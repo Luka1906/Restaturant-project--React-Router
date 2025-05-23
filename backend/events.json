@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"New Event","image":"https://images.squarespace-cdn.com/content/v1/5e61a438d6f6a944b6bb74b1/a30d3087-36bd-4c96-8aa8-274b83407e3d/Chicago+Corporate+Event+Photography-Stackoverflow+Chicago+conference+2023+at+Hilton+Chicago-118.jpg","date":"2025-05-23","description":"This is the second event","id":"6581d7ef-6c67-48e5-8b27-a5a55329fedb"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
